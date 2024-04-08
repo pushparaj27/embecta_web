@@ -45563,7 +45563,7 @@ p=t.T
 o=A.nO(f,f,new A.b1(new A.ahW(B.ej),p),f,f,f,f,f,f,f,f,f,f,f,f,new A.bB(new A.c3(A.dF(10),B.u),q),f,f,f,f,f,f)
 o=A.It(A.bV(A.a([A.aq("Cancel",f,f,f,f,f,f,f,A.nC().$3$color$fontSize$fontWeight(B.m,14,B.r),f,f,f)],b),B.B,B.cs,B.p),new A.ahX(),o)
 q=A.nO(f,f,new A.b1(new A.ahY(B.ej),p),f,f,f,f,f,f,f,f,f,f,f,f,new A.bB(new A.c3(A.dF(10),B.u),q),f,f,f,f,f,f)
-p=g.Q&&g.as&&g.at&&g.ax&&g.ay?"Submit":"Save as Draft"
+p=g.Q&&g.as&&g.at&&g.ax?"Submit":"Save as Draft"
 B.b.S(r,A.a([A.bV(A.a([new A.bc(f,f,o,f),new A.bc(5,f,f,f),new A.bc(f,f,A.It(A.bV(A.a([A.aq(p,f,f,f,f,f,f,f,A.nC().$3$color$fontSize$fontWeight(B.m,14,B.r),f,f,f)],b),B.B,B.cs,B.p),new A.ahZ(g,a0),q),f),new A.bc(5,f,f,f),A.m8(B.o1,B.ej,f)],b),B.B,B.o,B.p)],b))}if(!g.x){q=A.nO(f,f,new A.b1(new A.ai_(),t.T),f,f,f,f,f,f,f,f,f,f,f,f,new A.bB(new A.c3(A.dF(10),B.u),t.fj),f,f,f,f,f,f)
 r.push(new A.bc(f,f,A.It(A.bV(A.a([A.aq("Clock In",f,f,f,f,f,f,f,A.nC().$3$color$fontSize$fontWeight(B.m,14,B.r),f,f,f),A.m8(B.FW,B.m,f)],b),B.B,B.o,B.p),new A.ai0(g),q),f))}s=A.a1(f,A.bV(r,B.B,B.cX,B.p),B.e,f,f,new A.bO(B.m,f,f,s,f,f,f,B.ab),f,f,new A.a9(16,10,16,10),new A.a9(16,16,16,16),f,f,f)
 r=A.qw(new A.ax(10,10))
@@ -45963,7 +45963,7 @@ var $async$$0=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:o=q.a
 s=2
 return A.t(o.w1(),$async$$0)
-case 2:s=o.Q&&o.as&&o.at&&o.ax&&o.ay?3:4
+case 2:s=o.Q&&o.as&&o.at&&o.ax?3:4
 break
 case 3:s=5
 return A.t(A.X(),$async$$0)
