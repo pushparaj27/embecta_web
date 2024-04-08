@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6fdeed552b6151f8e33bce7ef671075e",
-"assets/AssetManifest.bin.json": "0d859586b089d5bb48a2e7b2323aaa02",
-"assets/AssetManifest.json": "69e3419b07bb402c721e93468fb4bcd6",
+const RESOURCES = {"assets/AssetManifest.bin": "ba861a8ef9e17a2786e2f78946c71010",
+"assets/AssetManifest.bin.json": "a6591f533c23112eae386830f19f71e9",
+"assets/AssetManifest.json": "53d6d15e8cdbe8397eb9c81dcf728acb",
 "assets/assets/images/embecta.png": "6639d6b34248cd279140bb4fa7b7a55a",
+"assets/assets/images/memebr.png": "185d9c006fda96a988274821793c45df",
 "assets/FontManifest.json": "0af3b370cd90b205ac3107260752ecaf",
 "assets/fonts/MaterialIcons-Regular.otf": "490aefc342608acd3bdfd21bd0654c8b",
 "assets/fonts/Montserrat-Bold.ttf": "ed86af2ed5bbaf879e9f2ec2e2eac929",
@@ -31,9 +32,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6fdeed552b6151f8e33bce7ef671075e
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "696d209c731d542e4cb1fa9bb8beaeb0",
-"/": "696d209c731d542e4cb1fa9bb8beaeb0",
-"main.dart.js": "9027565d323337cd84f81398b1ee450b",
+"index.html": "b04961b6be5d46121228b08d778b2ef8",
+"/": "b04961b6be5d46121228b08d778b2ef8",
+"main.dart.js": "410c1351c53c6d5ff8b2b6846a75935d",
 "manifest.json": "4efde862bd6080c66475476377a48ba5",
 "version.json": "10e7e0ab5a3b0d108b8f4f25c1e6ca66"};
 // The application shell files that are downloaded before a service worker can
